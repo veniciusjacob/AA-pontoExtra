@@ -10,4 +10,5 @@ O objetivo deste repositório é organizar e apresentar os trabalhos de pontos e
 
 A estrutura do repositório segue a seguinte organização:
 
-
+ Diretório equipe-1: trabalho referente a comparação de desempenho de algoritmos de ordenação com diferentes entradas;
+Diretório memoriaVirtual: trabalho referente ao Mapeamento da Memória Virtual.
